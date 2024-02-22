@@ -1,3 +1,6 @@
 pipeline {
-    
+    sort { 
+        add
+    }
+
 }
